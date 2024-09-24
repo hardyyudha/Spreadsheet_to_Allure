@@ -6,6 +6,6 @@ This tool functionality is to convert the data from Google Spreadsheet to Allure
 <br>
 User only need to add the test as they do as image below:
 <br>
-![alt text](image.png)
+![alt text](converterStep.png)
 <br>
 After user already input all the test. They can run the script on AppScript then the `.json` file will generated in drive folder
