@@ -1,0 +1,27 @@
+{
+    "name": "Login dengan valid credential",
+    "status": "passed",
+    "steps": [
+      {
+        "name": "step a",
+        "status": "passed"
+      },
+      {
+        "name": "step b",
+        "status": "passed"
+      },
+      {
+        "name": "step c",
+        "status": "passed"
+      }
+    ],
+    "start": 1727063098390,
+    "stop": 1727063108390,
+    "attachments": [
+      {
+        "name": "https://drive.google.com/file/d/folder_id/view?usp=drive_link",
+        "type": "",
+        "source": ""
+      }
+    ]
+  }
